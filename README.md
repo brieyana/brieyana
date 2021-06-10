@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brie Haynes
 - 👀 I’m interested in web development!
-- 🌱 I’m currently learning HTML, CSS, JavaScript, and React
+- 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 📫 Reach me at briehaynes9@gmail.com
 
 <!---
