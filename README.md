@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Brie Haynes
-- 👀 I’m interested in web development!
+- 👋 Hi, I’m Brie Haynes!
+- 👀 I’m interested in web development, front and back
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 📫 Reach me at briehaynes9@gmail.com
 
