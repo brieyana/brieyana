@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Brie Haynes!
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
-- 📫 Reach me at briehaynes9@gmail.com
+# Welcome!
+My name is Brie Haynes and I am currently a third year CS student at UT Dallas with an interest in pursuing in full-stack development. In my free time, I like to play guitar, read, and take photos with my instant cameras!
 
-<!---
-brieyana/brieyana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## What I’m Working On
+Right now, I am working on an API called The Polaroid API. Since I have a lot for Polaroid cameras and want to know how to build an API, I figured this could be a fun——and useful——project!
+
+## Reach Out!
+✉️ briehaynes9@gmail.com
+👾 (Discord): ivyfall#8766
